@@ -1,3 +1,7 @@
+#Name - Akshay Pratap Singh
+#Reg No. - 2024UG1098
+#Course : CS 2101 - Python Programming Lab
+
 #Input two complex numbers and display their sum , difference and product.
 
 c1= complex(input("Enter the first complex number"))
@@ -11,3 +15,4 @@ product= c1 * c2
 print("Sum is ",sum)
 print("Difference is ",diff)
 print("Multiplication is ", product)
+
