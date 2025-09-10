@@ -1,3 +1,7 @@
+#Name - Akshay Pratap Singh
+#Reg No. - 2024UG1098
+#Course : CS 2101 - Python Programming Lab
+
 # Task - 1 : To impelement swapping of two variables usign python
 
 a= int(input("Enter the first number"))
@@ -12,4 +16,5 @@ a,b=b,a
 print("After Swapping :")
 print("first number now ",a)
 print("Second number now ",b)
+
 
