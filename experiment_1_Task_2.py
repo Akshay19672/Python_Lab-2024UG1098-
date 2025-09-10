@@ -1,3 +1,7 @@
+#Name - Akshay Pratap Singh
+#Reg No. - 2024UG1098
+#Course : CS 2101 - Python Programming Lab
+
 # Create a program to compute student marks(Average , Grade , Classification )
 
 
@@ -33,3 +37,4 @@ elif percentage>=60 and percentage<=69:
 
 else:
   print("GRADE : F")  
+
