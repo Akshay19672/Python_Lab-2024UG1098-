@@ -1,3 +1,8 @@
+#Name - Akshay Pratap Singh
+#Reg No. - 2024UG1098
+#Course : CS 2101 - Python Programming Lab
+
+
 # Convert temperature from Farhenheit to Celcius and vice versa
 
 
@@ -30,5 +35,6 @@ elif choice==2:
 
 else:
   print("Invalid Choice ")
+
 
 
